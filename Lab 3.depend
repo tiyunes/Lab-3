@@ -1,0 +1,119 @@
+# depslib dependency file v1.0
+1622827404 source:d:\documents\yandex d\documents\c++files\lab 3\main.cpp
+	<iostream>
+	<string>
+	<functional>
+	<cassert>
+	<stdexcept>
+	<complex>
+	<string>
+	<vector>
+	<utility>
+	<chrono>
+	"SET.H"
+	"BinaryTree.h"
+	"PriorityQueue.h"
+	"STUDENTS.H"
+	"TEACHER.H"
+
+1621523764 source:d:\documents\yandex d\documents\c++files\lab 3\binarytreenode.cpp
+	"BinaryTreeNode.h"
+
+1622825668 d:\documents\yandex d\documents\c++files\lab 3\binarytreenode.h
+	"SEQUENCE.H"
+	<utility>
+	<vector>
+	"STUDENTS.H"
+	"TEACHER.H"
+
+1622483830 d:\documents\yandex d\documents\c++files\lab 3\sequence.h
+	"LinkedList.h"
+
+1620555508 d:\documents\yandex d\documents\c++files\lab 3\linkedlist.h
+	<stdexcept>
+	<iostream>
+
+1621774046 source:d:\documents\yandex d\documents\c++files\lab 3\binarytree.cpp
+	"BinaryTree.h"
+
+1622825636 d:\documents\yandex d\documents\c++files\lab 3\binarytree.h
+	"SEQUENCE.H"
+	"LinkedListSequence.h"
+	"BinaryTreeNode.h"
+	"STUDENTS.H"
+	"TEACHER.H"
+	<vector>
+	<algorithm>
+	<functional>
+	<stdexcept>
+
+1622571328 d:\documents\yandex d\documents\c++files\lab 3\linkedlistsequence.h
+	"SEQUENCE.H"
+	"LinkedList.h"
+
+1622483474 source:d:\documents\yandex d\documents\c++files\lab 3\set.cpp
+	"SET.H"
+
+1622825726 d:\documents\yandex d\documents\c++files\lab 3\set.h
+	<functional>
+	"BinaryTree.h"
+	"SEQUENCE.H"
+
+1622825706 d:\documents\yandex d\documents\c++files\lab 3\priorityqueue.h
+	"BinaryTree.h"
+	"STUDENTS.H"
+	"TEACHER.H"
+	<vector>
+	<algorithm>
+	<utility>
+	<functional>
+	<iostream>
+
+1622797532 d:\documents\yandex d\documents\c++files\lab 3\doctest.h
+	<signal.h>
+	<iosfwd>
+	<cstddef>
+	<ostream>
+	<ciso646>
+	<type_traits>
+	"doctest_fwd.h"
+	<ctime>
+	<cmath>
+	<climits>
+	<math.h>
+	<new>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<limits>
+	<utility>
+	<fstream>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<iomanip>
+	<vector>
+	<atomic>
+	<mutex>
+	<set>
+	<map>
+	<exception>
+	<stdexcept>
+	<csignal>
+	<cfloat>
+	<cctype>
+	<cstdint>
+	<sys/types.h>
+	<unistd.h>
+	<sys/sysctl.h>
+	<AfxWin.h>
+	<windows.h>
+	<io.h>
+	<sys/time.h>
+	<unistd.h>
+
+1622814692 d:\documents\yandex d\documents\c++files\lab 3\students.h
+	<string>
+
+1622814884 d:\documents\yandex d\documents\c++files\lab 3\teacher.h
+
